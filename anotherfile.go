@@ -1,4 +1,4 @@
-package go_modules_testing
+package modules_testing_sops
 
 import "fmt"
 
